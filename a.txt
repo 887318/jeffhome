@@ -3,12 +3,12 @@
 广东珠江B（触电720P2M）,http://php.jdshipin.com:8880/chudian.php?id=gdzj
 广东珠江C（9d源576P2M）,http://113.86.205.10:808/hls/105/index.m3u8
 广东珠江D（576P2M）,http://58.17.116.69:9906/tsfile/live/0001_1.m3u8
-广东珠江E（IPV6，25）,http://[2409:8087:7001:20:1000::25]:6610/000000001000/1000000004000011655/index.m3u8?channel-id=ystenlive&Contentid=1000000004000011655&livemode=1&stbId=3&HlsProfileId=
-广东珠江F（IPV6，96）http://[2409:8087:7001:20:1000::96]:6610/000000001000/1000000004000011655/index.m3u8?channel-id=ystenlive&Contentid=1000000004000011655&livemode=1&stbId=3&HlsProfileId=
-广东珠江H（1080P6M）,http://183.11.239.32:808/hls/83/index.m3u8
+广东珠江E（576P）,http://218.17.205.210:9901/tsfile/live/1000_1.m3u8
+广东珠江F（576P）,https://epg.pw/stream/51b2622bc0ab3fea23acfd8d9b0314a954a98e5e79d4337650f58bee32357425.m3u8
+广东珠江G（1080P6M）,http://183.11.239.32:808/hls/83/index.m3u8
 广东珠江H（1080P10M）,http://www.22803189.xyz:8001/rtp/239.77.0.114:5146
-广东珠江I（576P）,http://218.17.205.210:9901/tsfile/live/1000_1.m3u8
-广东珠江J（576P）,https://epg.pw/stream/51b2622bc0ab3fea23acfd8d9b0314a954a98e5e79d4337650f58bee32357425.m3u8
+广东珠江IPV6（25）,http://[2409:8087:7001:20:1000::25]:6610/000000001000/1000000004000011655/index.m3u8?channel-id=ystenlive&Contentid=1000000004000011655&livemode=1&stbId=3&HlsProfileId=
+广东珠江IPV6（96）,http://[2409:8087:7001:20:1000::96]:6610/000000001000/1000000004000011655/index.m3u8?channel-id=ystenlive&Contentid=1000000004000011655&livemode=1&stbId=3&HlsProfileId=
 广州综合C（腾讯）,https://tencentplay.gztv.com/live/zonghes.m3u8?txSecret=48f6c06c32931ed1c2376b21ce91640c&txTime=18d1f31b604
 广州新闻B（腾讯）,https://tencentplay.gztv.com/live/xinwen.m3u8?txSecret=18239546a49b0341aea040cc8023fd63&txTime=18d1f31b605
 广州竞赛B（腾讯）,https://tencentplay.gztv.com/live/jingsai.m3u8?txSecret=ba009db31fe18376cc40fb8dbbcaae93&txTime=18d1f31b605
@@ -17,11 +17,6 @@
 广州南国都市C（腾讯）,https://tencentplay.gztv.com/live/nanguodushi.m3u8?txSecret=97b6afb13ea8ad993056a9bb796d59d4&txTime=18d1f31b605
 广州番禺台,http://video.epaper.pybtv.cn:8080/live/rtmp_live_demo.flv
 广州增城台,http://pl1.cloud.dayang.com.cn/live/10062_E5i2s6.m3u8
-GRTN文化频道,https://glive.grtn.cn/live/wenhua_test0203.m3u8
-GRTN生活频道,http://glive.grtn.cn/live/life.m3u8
-GRTN纪录片频道,http://glive.grtn.cn/live/jilupian.m3u8
-GRTN健康频道,http://glive.grtn.cn/live/health.m3u8
-GRTN荔枝台,http://glive.grtn.cn/live/lizhi.m3u8
 香港,#genre#
 无线新闻A（1080P3M50FPS）,http://live.cooltv.top/tv/tvb.php?id=0&hq
 无线新闻B（720P1M）,http://live.cooltv.top/tv/tvb.php?id=0
@@ -67,10 +62,10 @@ CCTV-1(1920x1080),http://6f155.x3322.net:8001/rtp/239.77.1.17:5146
 CCTV-1(1920x1080),http://6f155.x3322.net:8001/rtp/239.77.1.144:5146
 CCTV-1(1920x1080),http://6f155.x3322.net:8001/rtp/239.77.0.86:5146
 CCTV-1超清(1920x1080),http://6f155.x3322.net:8001/rtp/239.77.0.129:5146
-CCTV-2财*(768x576),http://6f155.x3322.net:8001/rtp/239.77.0.31:5146
+CCTV-2财经(768x576),http://6f155.x3322.net:8001/rtp/239.77.0.31:5146
 CCTV-2(1920x1080),http://6f155.x3322.net:8001/rtp/239.77.1.158:5146
 CCTV-2(1920x1080) (CAVS),http://6f155.x3322.net:8001/rtp/239.253.43.17:5146
-CCTV -2财*(1920x1080),http://6f155.x3322.net:8001/rtp/239.77.0.137:5146
+CCTV-2财经(1920x1080),http://6f155.x3322.net:8001/rtp/239.77.0.137:5146
 CCTV-3综艺(1024x576),http://6f155.x3322.net:8001/rtp/239.77.0.32:5146
 CCTV-3(1920x1080),http://6f155.x3322.net:8001/rtp/239.77.0.169:5146
 CCTV-3超清(1920x1080) (CAVS),http://6f155.x3322.net:8001/rtp/239.77.0.175:5146
@@ -91,7 +86,7 @@ CCTV-6超清(1920x1080) (CAVS)(1920x1080),http://6f155.x3322.net:8001/rtp/239.77
 CCTV-7国防军事(768x576),http://6f155.x3322.net:8001/rtp/239.77.0.36:5146
 CCTV-7(1920x1080),http://6f155.x3322.net:8001/rtp/239.77.1.159:5146
 CCTV-7(1920x1080) (CAVS),http://6f155.x3322.net:8001/rtp/239.77.1.167:5146
-CCTV -7军事农业(1920x1080),http://6f155.x3322.net:8001/rtp/239.77.0.138:5146
+CCTV-7军事农业(1920x1080),http://6f155.x3322.net:8001/rtp/239.77.0.138:5146
 CCTV-8电视剧(1024x576),http://6f155.x3322.net:8001/rtp/239.77.0.37:5146
 CCTV-8(1920x1080),http://6f155.x3322.net:8001/rtp/239.77.0.172:5146
 CCTV-8超清(1920x1080) (CAVS)(1920x1080),http://6f155.x3322.net:8001/rtp/239.77.0.181:5146
@@ -247,7 +242,7 @@ CGTN俄语(1920x1080),http://6f155.x3322.net:8001/rtp/239.253.43.201:5146
 深圳都市频道(1920x1080),http://6f155.x3322.net:8001/rtp/239.77.1.124:5146
 深圳电视剧频道(1920x1080),http://6f155.x3322.net:8001/rtp/239.77.1.177:5146
 深圳电视剧频道(1920x1080),http://6f155.x3322.net:8001/rtp/239.77.1.125:5146
-深圳财*生活(1920x1080),http://6f155.x3322.net:8001/rtp/239.77.1.242:5146
+深圳财经生活(1920x1080),http://6f155.x3322.net:8001/rtp/239.77.1.242:5146
 深圳娱乐频道(1920x1080),http://6f155.x3322.net:8001/rtp/239.77.1.243:5146
 深圳体育健康(1920x1080),http://6f155.x3322.net:8001/rtp/239.77.1.128:5146
 深圳体育健康(1920x1080),http://6f155.x3322.net:8001/rtp/239.77.1.140:5146
@@ -336,7 +331,7 @@ HZTV-2(1920x1080),http://6f155.x3322.net:8001/rtp/239.77.1.233:5146
 深圳都市频道,http://6f155.x3322.net:8001/rtp/239.77.1.124:5146
 深圳电视剧频道,http://6f155.x3322.net:8001/rtp/239.77.1.177:5146
 深圳电视剧频道,http://6f155.x3322.net:8001/rtp/239.77.1.125:5146
-深圳财*生活,http://6f155.x3322.net:8001/rtp/239.77.1.242:5146
+深圳财经生活,http://6f155.x3322.net:8001/rtp/239.77.1.242:5146
 深圳娱乐频道,http://6f155.x3322.net:8001/rtp/239.77.1.243:5146
 深圳体育健康,http://6f155.x3322.net:8001/rtp/239.77.1.128:5146
 深圳体育健康,http://6f155.x3322.net:8001/rtp/239.77.1.140:5146
@@ -705,7 +700,12 @@ CCTV-15高清,http://113.86.205.10:808/hls/127/index.m3u8
 风云足球,http://113.86.205.10:808/hls/530/index.m3u8
 央视台球,http://113.86.205.10:808/hls/531/index.m3u8
 地址,thread-8341664-1-1.html
-珠三角,#genre#
+省内其他,#genre#
+GRTN文化频道,https://glive.grtn.cn/live/wenhua_test0203.m3u8
+GRTN生活频道,http://glive.grtn.cn/live/life.m3u8
+GRTN纪录片频道,http://glive.grtn.cn/live/jilupian.m3u8
+GRTN健康频道,http://glive.grtn.cn/live/health.m3u8
+GRTN荔枝台,http://glive.grtn.cn/live/lizhi.m3u8
 深圳都市A,http://livepull-tcyzb.sztv.com.cn/live/dushi01.m3u8
 深圳都市B,http://180.97.247.27/4403-tx.otvstream.otvcloud.com/otv/skcc/live/channel46/index.m3u8
 深圳公共,http://180.97.247.27/4403-tx.otvstream.otvcloud.com/otv/skcc/live/channel52/index.m3u8
@@ -724,7 +724,6 @@ CCTV-15高清,http://113.86.205.10:808/hls/127/index.m3u8
 深圳蛇口,http://180.97.247.27/4403-tx.otvstream.otvcloud.com/otv/skcc/live/channel37/index.m3u8
 深圳众创A,http://liveplay.sznews.com/66_showto_live/2645.m3u8
 深圳众创B,https://lglivepull.sznews.com/live/2645.m3u8
-省内其他等,#genre#
 阳江1台B,https://live.yjtvw.com:8081/live/smil:yjtv1.smil/playlist.m3u8
 阳江2台B,https://live.yjtvw.com:8081/live/smil:yjtv2.smil/playlist.m3u8
 韶关新闻综合,https://www.sgmsw.cn/videos/tv/201805/1308/SB05RIYZOU8JR418AUQOF62CAJQ08D0E/hls/live.m3u8
